@@ -1,0 +1,93 @@
+item,label,url
+Home purchase [local-home scenario],58 listing feed,https://cd.58.com/fangjia/36117/
+Home purchase [local-home scenario],Anjuke individual listing,https://chengdu.anjuke.com/prop/view/S4756984643280899
+Home purchase [local-home scenario],Magnolia HAR listing,https://www.har.com/homedetail/7900-spring-run-dr-magnolia-tx-77354/15283865
+Home purchase [local-home scenario],Home purchase — China price/specification source,https://www.cih-index.com/report/detail/126130.html
+Home purchase [local-home scenario],Home purchase — US price/specification source,https://www.har.com/content/department/mls?print=1
+Rent incl fixed fees,Rent incl fixed fees — China price/specification source,https://www.ziroomapartment.com/houseType/getDetail/2c923996850ad87001852ea049213a73.html
+Rent incl fixed fees,Rent incl fixed fees — US price/specification source,https://www.monarchatmedicalcenter.com/floorplans
+Car,Hyundai window sticker hosted by a California dealer — national MSRP/freight components; Texas tax separately modeled,https://www.northbayhyundai.com/api/vhcliaa/inventory/30879/window-sticker?dealerCode=CA02A&make=Hyundai&sv=SwBNADgASABDADMAQQA2ADMAUwBVADAAMwAxADYANgA3AA%3D%3D&vehicleType=N
+Car,Texas vehicle tax,https://comptroller.texas.gov/taxes/publications/96-254/tax-rates.php
+Car,China purchase-tax announcement,https://www.chinatax.gov.cn/eng/c102962/c102967/c103002/c5246324/content.html
+Car,contemporaneous trim-by-trim comparison,https://auto.ifeng.com/c/8hTAGcZCpzi
+Car,Car — US price/specification source,https://www.hyundaiusa.com/us/en/vehicles/kona-electric/sel
+Car,Car — China price/specification source,https://www.byd.com/cn/dynasty-home/models/yuan/2-yuan-plus
+Gym,LeFit official service description,https://www.leoao.com/join
+Gym,Texas Comptroller's gym-fee guidance,https://comptroller.texas.gov/taxes/tax-policy-news/2022-february.php
+Gym,Local PF equipment and hours,https://www.planetfitness.com/gyms/houston-greater-heights-tx
+Gym,Gym — China price/specification source,https://m.dongfangfuli.com/birthday/goods/detail/792?city=145
+Gym,Gym — US price/specification source,https://www.planetfitness.com/gyms/houston-greater-heights-tx/offers
+Transport,Chengdu Metro ticket policy,https://www.sohu.com/a/770510717_99960714
+Transport,"Chengdu public-transport operator disclosure, printed p.70",https://pdf.dfcfw.com/pdf/H2_AN202402201622418984_1.pdf
+Transport,Houston 2026 meter rates,https://www.houstontx.gov/ara/vfh/vfhdocs/2026-Taxicab-Meter-Rate-Increase.pdf
+Transport,Transport — China price/specification source,https://static.sse.com.cn/disclosure/bond/announcement/company/c/new/2026-03-10/244772_20260310_VR8Y.pdf
+Transport,Transport — US price/specification source,https://www.ridemetro.org/fares/all-about-fares
+Groceries,"National Food and Nutrition Advisory Committee, 2022 guidelines",https://sfncc.caas.cn/xyyw/79c86454ef84437eb3e0df055deffd56.htm
+Groceries,Penglai government,https://www.penglai.gov.cn/art/2025/9/30/art_61800_2988842.html
+Groceries,"Weihai supermarket monitoring, 20 November 2025",https://fgw.weihai.gov.cn/art/2025/11/20/art_53889_5946466.html
+Groceries,Fruit monitoring,https://www.chinaprice.cn/spxyfx/58902.jhtml
+Groceries,Yuanqu January 2026 monitoring,https://xxgk.yczf.gov.cn/xzf/ycfzggj/fdzdgknr/gzdt/202601/P020260129560074762183.pdf
+Groceries,USDA methodology,https://www.fna.usda.gov/cnpp/thrifty-food-plan-2021
+Groceries,Groceries — China price/specification source,https://www.chinaprice.cn/spxyfx/58895.jhtml
+Groceries,Groceries — US price/specification source,https://www.fna.usda.gov/research/cnpp/usda-food-plans/cost-food-monthly-reports
+Eating out,Eating out — China price/specification source,https://finance.sina.com.cn/roll/2026-09-17/doc-iniscekc4138164.shtml
+Eating out,Eating out — US price/specification source,https://cabobobsburritos.toast.site/order/cabo-bobs-burritos-houston-1810-fountain-view-dr/item-bowl-chicken_b402fe86-cab4-4048-a429-152e3f1df9a0
+Employee health contribution [unequal benefits],Hospital reproduction of municipal rules,https://www.cdcj120.com/sys-nd/49.html
+Employee health contribution [unequal benefits],"municipal notice reproduced by 蓉城政事, 11 October 2025",https://thirdpage.thepaper.cn/h5/jrtt/31757886
+Employee health contribution [unequal benefits],Health insurance — US price/specification source,https://www.kff.org/health-costs/2025-employer-health-benefits-survey/
+Employee health contribution [unequal benefits],Health insurance — China price/specification source,https://chinajob.mohrss.gov.cn/c/2022-10-31/363561.shtml
+Two visits + blood count [limited basket],Routine medical basket — US price/specification source,https://trshealth.org/pricing/
+Two visits + blood count [limited basket],Dr Van Tran laboratory prices,https://www.drvantran.com/contents/services/more-services/chronic-diseases
+Two visits + blood count [limited basket],Routine medical basket — China price/specification source,https://upload.cdzxy.com/2025/0519/20250519032954236.pdf
+Flagship phone,Apple launch and pricing,https://www.apple.com/newsroom/2025/09/apple-unveils-iphone-17-pro-and-iphone-17-pro-max/
+Flagship phone,Flagship phone — US manufacturer launch and price,https://community.oneplus.com/thread/1734468328384102406
+Flagship phone,OnePlus protection services,https://www.oneplus.com/us/support/product/protection-service
+Flagship phone,Flagship phone — China dated launch/price report,https://www.ithome.com/0/886/197.htm
+Entry phone,Entry phone — China dated launch/price report,https://www.ithome.com/0/877/108.htm
+Entry phone,Entry phone — US manufacturer launch and price,https://news.samsung.com/us/samsung-galaxy-a16-5g-galaxy-fit3-now-available-in-us/
+Premium laptop,launch coverage,https://www.ithome.com/0/845/063.htm
+Premium laptop,Xiaomi’s product/specification pages,https://www.mi.com/prod/redmi-books/16-pro-2025/specs
+Premium laptop,ASUS manufacturer page,https://www.asus.com/laptops/for-home/vivobook/asus-vivobook-s-16-oled-s5606/
+Premium laptop,Premium laptop — China price/specification source,https://wiki.smzdm.com/p/pgpgdq7/
+Premium laptop,Premium laptop — US price/specification source,https://www.newegg.com/asus-vivobook-s-16-3k-oled-intel-core-ultra-7-255h-32gb-1tb-ssd-win11home-s5606ca-ns79/p/N82E16834236727
+Entry laptop,26 May 2025 launch coverage,https://www.ithome.com/0/856/037.htm
+Entry laptop,Entry laptop — China price/specification source,https://item.jd.com/product/9HLWdH_xxTBbhK6B9kgjEw.html
+Entry laptop,Entry laptop — US price/specification source,https://www.bestbuy.com/product/acer-aspire-go-15-15-6-fhd-laptop-amd-ryzen-7-7730u-2023-amd-radeon-graphics-16gb-ddr4-512gb-pcie-storage-pure-silver/JJ8V8HLR76/sku/6667612
+TV Mini LED,Best Buy offer,https://www.bestbuy.com/product/insignia-55-class-f50-series-led-4k-uhd-smart-fire-tv/6607832
+TV Mini LED,RTINGS original tests and size caveats,https://www.rtings.com/tv/reviews/tcl/qm6k
+TV Mini LED,TV Mini LED — China price/specification source,https://detail.youzan.com/show/goods?alias=36bfou2xyo0n7cc&from_source=gbox_seo
+TV Mini LED,TV Mini LED — US price/specification source,https://us.tcl.com/products/qm6k-series-qd-mini-led-qled-4k-uhd-smart-tv-with-google-tv
+Dishwasher,Dishwasher — China price/specification source,https://www.mi.com/shop/buy/detail?product_id=21709
+Dishwasher,Dishwasher — US price/specification source,https://www.lowes.com/pd/Midea-24-built-in-dishwasher-47dBA-SS/5015622687
+Washer front-loader,Washer front-loader — China price/specification source,https://www.haier.com/laundry/20240726_248196.shtml
+Washer front-loader,Washer front-loader — US price/specification source,https://www.homedepot.com/p/313846213
+Fridge,Fridge — China dated launch/price report,https://www.ithome.com/0/912/097.htm
+Fridge,Fridge — US price/specification source,https://www.bestbuy.com/product/insignia-20-5-cu-ft-top-freezer-refrigerator-with-energy-star-certification-stainless-steel/J2FPJKPLQS
+Furniture basket,Furniture basket — China price/specification source,https://www.ikea.cn/cn/zh/p/vihals-wei-ha-si-chuang-jia-bai-se-lu-rui-s49581846/
+Furniture basket,China mattress,https://www.ikea.cn/cn/zh/p/50470060/?artType=ART
+Furniture basket,China sofa,https://www.ikea.cn/cn/zh/p/klippan-ke-li-pa-shuang-ren-sha-fa-wei-suo-er-hui-se-s49010615/
+Furniture basket,China table and chair prices,https://www.ikea.cn/cn/zh/cat/sandsberg-sang-de-bei-li-xi-lie-54982/
+Furniture basket,US bed,https://www.ikea.com/us/en/p/vihals-bed-frame-white-luroey-s19581838/
+Furniture basket,US sofa,https://www.ikea.com/us/en/p/klippan-loveseat-vissle-gray-s09010617/
+Furniture basket,US dining furniture,https://www.ikea.com/us/en/cat/sandsberg-series-54982/
+Furniture basket,China delivery,https://www.ikea.cn/cn/zh/customer-service/services/delivery/
+Furniture basket,US delivery,https://www.ikea.com/us/en/customer-service/services/delivery/
+Furniture basket,Furniture basket — US price/specification source,https://www.walmart.com/ip/53737447
+Clothing basics,George single pair,https://www.walmart.com/ip/974623932
+Clothing basics,Walmart six-pack,https://www.walmart.com/ip/Hanes-Men-s-Cotton-Boxer-Brief-Underwear-Pack-Moisture-Wicking-Assorted-Solids-6-Pack/13992920858
+Clothing basics,Dated Yanxuan offer and conditions,https://finance.sina.com.cn/tech/roll/2026-04-20/doc-inhvcrnc8558889.shtml
+Clothing basics,JD campaign,https://pro.jingxi.com/jx/active/2ARqFHqrb1EwBNRPEJJwQmRQ6nzg/index.html?ptag=139351.1.1
+Clothing basics,page-price versus timed-sale record,https://m.smzdm.com/p/175450418/
+Clothing basics,Clothing basics — China price/specification source,https://www.ithome.com/0/927/526.htm
+Clothing basics,Clothing basics — US price/specification source,https://www.target.com/p/-/A-54244244
+Running shoes,Running shoes — China price/specification source,https://m.yougou.com/c-lining/sku-arpv001-yg101652799
+Running shoes,Running shoes — US price/specification source,https://www.adidas.com/us/duramo-speed-2-running-shoes/KJ2866.html
+Basketball shoes,Basketball shoes — China price/specification source,https://www.smzdm.com/p/179864733/
+Basketball shoes,Basketball shoes — US price/specification source,https://www.nike.com/t/gt-cut-academy-basketball-shoes-HWCFvAob
+Road bike [China build estimate],Chinese component-price context,https://wiki.smzdm.com/p/7yvx89o/
+Road bike [China build estimate],US Winspace offer,https://www.winspace.cc/products/t1550-gen2-105-di2
+Road bike [China build estimate],Canyon specifications and price,https://www.canyon.com/en-us/road-bikes/aero-bikes/aeroad/cf-slx/aeroad-cf-slx-7-di2/4531.html
+MONTHLY TOTAL · Entry renter,NBS 2025 annual average,https://www.stats.gov.cn/english/PressRelease/202602/t20260228_1962661.html
+MONTHLY TOTAL · Premium renter,NBS 2025 annual average,https://www.stats.gov.cn/english/PressRelease/202602/t20260228_1962661.html
+MONTHLY TOTAL · Renter + EV and hobbies,NBS 2025 annual average,https://www.stats.gov.cn/english/PressRelease/202602/t20260228_1962661.html
+MONTHLY TOTAL · Owner + EV and hobbies,NBS 2025 annual average,https://www.stats.gov.cn/english/PressRelease/202602/t20260228_1962661.html

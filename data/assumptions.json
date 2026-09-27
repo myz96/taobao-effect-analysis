@@ -1,0 +1,37 @@
+{
+  "as_of": "2026-09-27",
+  "consumption_ppp": 3.46,
+  "ppp_year": 2025,
+  "meals_out": 8,
+  "ingredients_avoided_per_meal": [7.5, 4.5],
+  "routine_allowance": [400, 250],
+  "basic_tv": [1799, 216.489175],
+  "car_residual_fraction": 0.2,
+  "car_running_monthly": [800, 350],
+  "down_payment_fraction": 0.2,
+  "mortgage_years": 30,
+  "mortgage_rate": [0.031, 0.0695],
+  "property_tax_rate": [0, 0.025],
+  "home_insurance_annual": [360, 3489],
+  "management_monthly": [166, 110],
+  "repairs_annual": [2400, 3300],
+  "after_tax_salary_monthly": [8707.22, 4383.94],
+  "standard_monthly_hours": 174,
+  "array_order": "China RMB, US USD, except dimensionless rates",
+  "interpretation": "Planning assumptions reproduce the existing workbook. Salary inputs are crowdsourced means captured in September 2026, not national or city medians. PPP is a rounded 2025 national household/NPISH consumption factor. Comparing it to this local basket does not isolate national measurement error.",
+  "sources": {
+    "consumption_ppp": "https://data.worldbank.org/indicator/PA.NUS.PRVT.PP?locations=CN",
+    "fx": "https://www.stats.gov.cn/english/PressRelease/202602/t20260228_1962661.html",
+    "after_tax_salaries": "https://www.numbeo.com/cost-of-living/compare_cities.jsp?city1=Chengdu&city2=Houston%2C+TX&country1=China&country2=United+States",
+    "us_mortgage": "https://www.freddiemac.com/pmms",
+    "china_mortgage_context": "https://m.fangchan.com/data/133/2026-08-26/7498204630359544379.html",
+    "texas_home_insurance": "https://www.tdi.texas.gov/general/texas-homeowners-insurance-market-overview.html",
+    "price_and_budget_details": "source-notes.csv"
+  },
+  "assumption_notes": {
+    "meals_and_replacements": "Eight bought meals replace home cooking. Avoided ingredients, replacement lives, residual value, routine allowance and running costs are author budgeting assumptions, not measured household averages.",
+    "housing": "Owner scenario: 20% down, 30-year amortization. China 3.1% scenario; US 6.95% dated national benchmark. Property tax 0%/2.5%, insurance and repairs differ in basis and are not property-specific matched quotes. Principal is included in owner cash outflow.",
+    "salary_snapshot": "Chengdu source updated 2026-09-24; Houston 2026-09-22. Employee health-premium deduction treatment remains unresolved; both treatments are reported.",
+    "model_dates": "Core price inputs frozen 2026-09-24, numerical/PPP review 2026-09-27. Price evidence mixes dated 2025-26 offers and estimates; FX is the 2025 annual average, not current spot."
+  }
+}
