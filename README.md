@@ -4,8 +4,6 @@ Reproducible price comparisons and illustrative monthly budgets for Chengdu and 
 
 ## Read or reproduce
 
-- [Article appendix](article/appendix.md), ready to adapt for Substack.
-- [Raw LaTeX blocks](article/latex-blocks.txt). In Substack use **More → LaTeX**, insert each formula, and preview. Pasting Markdown dollar-sign delimiters into ordinary prose does not guarantee equation rendering. [Substack instructions](https://support.substack.com/hc/en-us/articles/12291042958996-How-do-I-add-equations-to-my-Substack-post).
 - [Excel workbook](workbooks/local-life-budget.xlsx): download to use the formulas.
 - [Source notes](data/source-notes.csv) and [source link index](data/sources.csv).
 - [Monthly contribution ledger](results/default-monthly-contributions.csv) and [all results](results/analysis.json).
