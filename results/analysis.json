@@ -1,0 +1,468 @@
+{
+  "as_of": "2026-09-27",
+  "fx_RMB_per_USD": 7.1429,
+  "profiles": [
+    {
+      "case": 1,
+      "coveredCN": 3778.133333333333,
+      "coveredUS": 2004.7194018253967,
+      "coveredMultiple": 3.790101870932372,
+      "expandedCN": 4178.133333333333,
+      "expandedUS": 2254.7194018253967,
+      "expandedMultiple": 3.8546484591121937,
+      "contributions": {
+        "Housing and household setup": {
+          "china_RMB": 2200,
+          "us_USD": 1236.4047794642856
+        },
+        "Car incl running": {
+          "china_RMB": 0,
+          "us_USD": 0
+        },
+        "Gym": {
+          "china_RMB": 239,
+          "us_USD": 20.657708333333336
+        },
+        "Transit and taxis": {
+          "china_RMB": 245,
+          "us_USD": 125
+        },
+        "Groceries": {
+          "china_RMB": 590.0,
+          "us_USD": 364.0
+        },
+        "Prepared meals": {
+          "china_RMB": 180.0,
+          "us_USD": 86.48
+        },
+        "Employee health premium": {
+          "china_RMB": 120,
+          "us_USD": 120
+        },
+        "Routine medical basket": {
+          "china_RMB": 3.9166666666666665,
+          "us_USD": 18.333333333333332
+        },
+        "Phone": {
+          "china_RMB": 27.75,
+          "us_USD": 6.013588194444444
+        },
+        "Laptop": {
+          "china_RMB": 63.31666666666667,
+          "us_USD": 12.62898625
+        },
+        "TV": {
+          "china_RMB": 21.416666666666668,
+          "us_USD": 2.577252083333333
+        },
+        "Clothing": {
+          "china_RMB": 54.48333333333333,
+          "us_USD": 6.4895875
+        },
+        "Running shoes": {
+          "china_RMB": 33.25,
+          "us_USD": 6.134166666666666
+        },
+        "Basketball shoes": {
+          "china_RMB": 0,
+          "us_USD": 0
+        },
+        "Road bike": {
+          "china_RMB": 0,
+          "us_USD": 0
+        }
+      }
+    },
+    {
+      "case": 2,
+      "coveredCN": 3979.2492063492064,
+      "coveredUS": 2041.7477748412698,
+      "coveredMultiple": 3.6650130274936745,
+      "expandedCN": 4379.249206349206,
+      "expandedUS": 2291.74777484127,
+      "expandedMultiple": 3.7380209276924092,
+      "contributions": {
+        "Housing and household setup": {
+          "china_RMB": 2200,
+          "us_USD": 1236.4047794642856
+        },
+        "Car incl running": {
+          "china_RMB": 0,
+          "us_USD": 0
+        },
+        "Gym": {
+          "china_RMB": 239,
+          "us_USD": 20.657708333333336
+        },
+        "Transit and taxis": {
+          "china_RMB": 245,
+          "us_USD": 125
+        },
+        "Groceries": {
+          "china_RMB": 590.0,
+          "us_USD": 364.0
+        },
+        "Prepared meals": {
+          "china_RMB": 180.0,
+          "us_USD": 86.48
+        },
+        "Employee health premium": {
+          "china_RMB": 120,
+          "us_USD": 120
+        },
+        "Routine medical basket": {
+          "china_RMB": 3.9166666666666665,
+          "us_USD": 18.333333333333332
+        },
+        "Phone": {
+          "china_RMB": 138.86111111111111,
+          "us_USD": 27.062199305555556
+        },
+        "Laptop": {
+          "china_RMB": 138.33333333333334,
+          "us_USD": 23.45398625
+        },
+        "TV": {
+          "china_RMB": 36.404761904761905,
+          "us_USD": 7.732013988095239
+        },
+        "Clothing": {
+          "china_RMB": 54.48333333333333,
+          "us_USD": 6.4895875
+        },
+        "Running shoes": {
+          "china_RMB": 33.25,
+          "us_USD": 6.134166666666666
+        },
+        "Basketball shoes": {
+          "china_RMB": 0,
+          "us_USD": 0
+        },
+        "Road bike": {
+          "china_RMB": 0,
+          "us_USD": 0
+        }
+      }
+    },
+    {
+      "case": 3,
+      "coveredCN": 5786.457539682539,
+      "coveredUS": 2594.0988446329366,
+      "coveredMultiple": 3.202199015590664,
+      "expandedCN": 6186.457539682539,
+      "expandedUS": 2844.0988446329366,
+      "expandedMultiple": 3.283803939010156,
+      "contributions": {
+        "Housing and household setup": {
+          "china_RMB": 2200,
+          "us_USD": 1236.4047794642856
+        },
+        "Car incl running": {
+          "china_RMB": 1772.0,
+          "us_USD": 622.4958333333334
+        },
+        "Gym": {
+          "china_RMB": 239,
+          "us_USD": 20.657708333333336
+        },
+        "Transit and taxis": {
+          "china_RMB": 0,
+          "us_USD": 0
+        },
+        "Groceries": {
+          "china_RMB": 590.0,
+          "us_USD": 364.0
+        },
+        "Prepared meals": {
+          "china_RMB": 180.0,
+          "us_USD": 86.48
+        },
+        "Employee health premium": {
+          "china_RMB": 120,
+          "us_USD": 120
+        },
+        "Routine medical basket": {
+          "china_RMB": 3.9166666666666665,
+          "us_USD": 18.333333333333332
+        },
+        "Phone": {
+          "china_RMB": 138.86111111111111,
+          "us_USD": 27.062199305555556
+        },
+        "Laptop": {
+          "china_RMB": 138.33333333333334,
+          "us_USD": 23.45398625
+        },
+        "TV": {
+          "china_RMB": 36.404761904761905,
+          "us_USD": 7.732013988095239
+        },
+        "Clothing": {
+          "china_RMB": 54.48333333333333,
+          "us_USD": 6.4895875
+        },
+        "Running shoes": {
+          "china_RMB": 33.25,
+          "us_USD": 6.134166666666666
+        },
+        "Basketball shoes": {
+          "china_RMB": 25.0,
+          "us_USD": 6.943335416666667
+        },
+        "Road bike": {
+          "china_RMB": 255.20833333333334,
+          "us_USD": 47.911901041666674
+        }
+      }
+    },
+    {
+      "case": 4,
+      "coveredCN": 7178.345016558224,
+      "coveredUS": 4501.744286224948,
+      "coveredMultiple": 4.4795157084123645,
+      "expandedCN": 7578.345016558224,
+      "expandedUS": 4751.744286224948,
+      "expandedMultiple": 4.4787132530805405,
+      "contributions": {
+        "Housing and household setup": {
+          "china_RMB": 3591.887476875685,
+          "us_USD": 3144.0502210562977
+        },
+        "Car incl running": {
+          "china_RMB": 1772.0,
+          "us_USD": 622.4958333333334
+        },
+        "Gym": {
+          "china_RMB": 239,
+          "us_USD": 20.657708333333336
+        },
+        "Transit and taxis": {
+          "china_RMB": 0,
+          "us_USD": 0
+        },
+        "Groceries": {
+          "china_RMB": 590.0,
+          "us_USD": 364.0
+        },
+        "Prepared meals": {
+          "china_RMB": 180.0,
+          "us_USD": 86.48
+        },
+        "Employee health premium": {
+          "china_RMB": 120,
+          "us_USD": 120
+        },
+        "Routine medical basket": {
+          "china_RMB": 3.9166666666666665,
+          "us_USD": 18.333333333333332
+        },
+        "Phone": {
+          "china_RMB": 138.86111111111111,
+          "us_USD": 27.062199305555556
+        },
+        "Laptop": {
+          "china_RMB": 138.33333333333334,
+          "us_USD": 23.45398625
+        },
+        "TV": {
+          "china_RMB": 36.404761904761905,
+          "us_USD": 7.732013988095239
+        },
+        "Clothing": {
+          "china_RMB": 54.48333333333333,
+          "us_USD": 6.4895875
+        },
+        "Running shoes": {
+          "china_RMB": 33.25,
+          "us_USD": 6.134166666666666
+        },
+        "Basketball shoes": {
+          "china_RMB": 25.0,
+          "us_USD": 6.943335416666667
+        },
+        "Road bike": {
+          "china_RMB": 255.20833333333334,
+          "us_USD": 47.911901041666674
+        }
+      }
+    }
+  ],
+  "capital_baskets": [
+    {
+      "label": "Selected goods",
+      "china_RMB": 198058.98,
+      "us_USD": 51712.3215,
+      "multiple": 1.8649795189410243
+    },
+    {
+      "label": "Selected goods plus home",
+      "china_RMB": 1098058.98,
+      "us_USD": 381712.3215,
+      "multiple": 2.483047806086291
+    }
+  ],
+  "default_weights": [
+    {
+      "category": "Housing and household setup",
+      "china_RMB": 2200,
+      "us_USD": 1236.4047794642856,
+      "china_weight": 0.5822981366459627,
+      "multiple": 4.0143253178342935,
+      "weighted_contribution": 2.3375341524656212
+    },
+    {
+      "category": "Gym",
+      "china_RMB": 239,
+      "us_USD": 20.657708333333336,
+      "china_weight": 0.06325875211744778,
+      "multiple": 0.6173888906032079,
+      "weighted_contribution": 0.03905525079073441
+    },
+    {
+      "category": "Transit and taxis",
+      "china_RMB": 245,
+      "us_USD": 125,
+      "china_weight": 0.06484683794466403,
+      "multiple": 3.6443367346938773,
+      "weighted_contribution": 0.23632371365047994
+    },
+    {
+      "category": "Groceries",
+      "china_RMB": 590.0,
+      "us_USD": 364.0,
+      "china_weight": 0.1561617730095991,
+      "multiple": 4.406806101694915,
+      "weighted_contribution": 0.6881746541501976
+    },
+    {
+      "category": "Prepared meals",
+      "china_RMB": 180.0,
+      "us_USD": 86.48,
+      "china_weight": 0.04764257481648786,
+      "multiple": 3.4317666222222223,
+      "weighted_contribution": 0.16349819805194807
+    },
+    {
+      "category": "Employee health premium",
+      "china_RMB": 120,
+      "us_USD": 120,
+      "china_weight": 0.03176171654432524,
+      "multiple": 7.1429,
+      "weighted_contribution": 0.22687076510446075
+    },
+    {
+      "category": "Routine medical basket",
+      "china_RMB": 3.9166666666666665,
+      "us_USD": 18.333333333333332,
+      "china_weight": 0.0010366671372106155,
+      "multiple": 33.43485106382978,
+      "weighted_contribution": 0.034660811335403725
+    },
+    {
+      "category": "Phone",
+      "china_RMB": 27.75,
+      "us_USD": 6.013588194444444,
+      "china_weight": 0.007344896950875212,
+      "multiple": 1.5479084365440439,
+      "weighted_contribution": 0.011369227955806364
+    },
+    {
+      "category": "Laptop",
+      "china_RMB": 63.31666666666667,
+      "us_USD": 12.62898625,
+      "china_weight": 0.01675871682665161,
+      "multiple": 1.4247052258772044,
+      "weighted_contribution": 0.02387623144192679
+    },
+    {
+      "category": "TV",
+      "china_RMB": 21.416666666666668,
+      "us_USD": 2.577252083333333,
+      "china_weight": 0.005668584133258047,
+      "multiple": 0.859566719348249,
+      "weighted_contribution": 0.004872526266774157
+    },
+    {
+      "category": "Clothing",
+      "china_RMB": 54.48333333333333,
+      "us_USD": 6.4895875,
+      "china_weight": 0.014420701581027666,
+      "multiple": 0.8508010012924443,
+      "weighted_contribution": 0.012269147344477873
+    },
+    {
+      "category": "Running shoes",
+      "china_RMB": 33.25,
+      "us_USD": 6.134166666666666,
+      "china_weight": 0.008800642292490118,
+      "multiple": 1.317766588972431,
+      "weighted_contribution": 0.011597192374541218
+    }
+  ],
+  "headline": {
+    "china_RMB": 3778.133333333333,
+    "china_USD": 528.9354930537083,
+    "us_USD": 2004.7194018253967,
+    "market_FX_multiple": 3.790101870932372,
+    "basket_RMB_per_dollar": 1.8846195282457758,
+    "consumption_PPP_RMB_per_international_dollar": 3.46,
+    "basket_vs_PPP_multiple": 1.8359143307936563,
+    "additional_purchasing_power_percent": 83.59143307936563,
+    "china_saving_vs_US_percent": 73.61548491164966
+  },
+  "catalogue": {
+    "arithmetic_mean": 3.78249569575968,
+    "geometric_mean": 2.2632089920934426,
+    "median": 1.7686351658626454,
+    "arithmetic_excluding_healthcare": 2.1318577121441584,
+    "geometric_excluding_healthcare": 1.8676411224071856
+  },
+  "hours": {
+    "china": 75.50001033624969,
+    "us": 79.56796304639641,
+    "china_if_health_already_deducted": 73.1020004088561,
+    "us_if_health_already_deducted": 74.8051241389296
+  },
+  "sensitivities_default_basis": [
+    {
+      "label": "Default",
+      "multiple": 3.790101870932372
+    },
+    {
+      "label": "Exclude housing/setup",
+      "multiple": 3.477522716329322
+    },
+    {
+      "label": "Exclude food",
+      "multiple": 3.690586617381309
+    },
+    {
+      "label": "Exclude healthcare",
+      "multiple": 3.648226217738948
+    },
+    {
+      "label": "Food: China RMB900 / US$330",
+      "multiple": 3.430747215078604
+    },
+    {
+      "label": "Durable lives 25% shorter",
+      "multiple": 3.7732161398258266
+    },
+    {
+      "label": "Durable lives 50% longer",
+      "multiple": 3.8073261116495405
+    },
+    {
+      "label": "Joint stress: higher China / cheaper US",
+      "multiple": 2.60837298073835
+    },
+    {
+      "label": "Joint stress: cheaper China / higher US",
+      "multiple": 5.439058841582662
+    },
+    {
+      "label": "Add routine allowance",
+      "multiple": 3.8546484591121937
+    }
+  ]
+}
